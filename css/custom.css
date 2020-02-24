@@ -5,15 +5,6 @@
 
 
 /******************************************************************************/
-.chris-blurb
-{
-    color:red;
-    font-size:xx-large;
-}
-
-
-
-/******************************************************************************/
 #chris-banner-text-div2
 {
     position:absolute;
@@ -27,7 +18,6 @@
 {
   .chris-blurb
   {
-      color:black;
       font-size:small;
       margin-left:10%;
       margin-right:10%;
@@ -41,7 +31,6 @@
 {
   .chris-blurb
   {
-      color:black;
       font-size:medium;
       margin-left:10%;
       margin-right:10%;
@@ -55,7 +44,6 @@
 {
   .chris-blurb
   {
-      color:black;
       font-size:medium;
       margin-left:10%;
       margin-right:10%;
@@ -69,7 +57,6 @@
 {
   .chris-blurb
   {
-      color:black;
       font-size:medium;
   }
 }
