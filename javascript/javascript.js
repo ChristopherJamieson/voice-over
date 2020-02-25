@@ -19,6 +19,7 @@ function initialise ()
 {
     fitBanner();
     window.onorientationchange = function() { setTimeout(fitBanner, 1000); }
+    window.onresize = function() { setTimeout(fitBanner, 100); }
 }
 
 
